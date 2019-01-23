@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="yellowCartColor">#ebeb41</color>
+    <color name="greenCartColor">#aceb86</color>
+    <color name="whiteCartColor">#eaeaea</color>
+    <color name="blueCartColor">#4444ea</color>
+    <color name="redCartColor">#ec2d2d</color>
+
+
+</resources>
